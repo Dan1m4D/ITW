@@ -1,0 +1,12 @@
+table {margin: auto;
+    border: solid 1px gray;
+    border-spacing: 0px     ;}
+
+td {width: 70px;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;}
+
+.claro {background-color: rgb(237, 240, 211);}
+.escuro {background-color: rgb(70, 70, 70);}
+body{background-image: url("backwaifu.png")}

@@ -1,0 +1,18 @@
+body, input, textarea, select{font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+                                border-radius: 0.25rem;}
+
+dt{width: 120px; float: left; clear: left;}
+dd{margin: 0 0 0 130px; padding-bottom: 5px;}
+div{float: left; width: 49%;}
+span{float: left; width: 49%;}
+
+input [type="text"], input [type="password"], select, textarea {width: 100%}
+
+.comment{width: 600px; float: left;}
+
+input[type="submit"],input[type="reset"]{padding: 0.375rem 0.75rem; font-size: 1rem;}
+textarea{width: 100%; font-size: 1rem;}
+
+fieldset {border-radius: 0.25rem;}
+
+

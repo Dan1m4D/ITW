@@ -1,0 +1,80 @@
+body {
+        background-image: url("bg-tree.png");
+        background-blend-mode: multiply ;
+        font-family: 'Open Sans';
+}
+
+.navbar {
+        border-radius: 20px;
+}
+
+li.nav-item {
+        border-radius: 20px;
+}
+
+li.nav-item:hover {
+        background-color: rgb(65, 65, 65) ;
+}
+
+li.nav-item:active:hover{
+        background-color: rgb(29, 29, 29);
+}
+.corpo {background-color: azure;
+        text-align: center;
+}
+
+.carousel-item img{
+        width: 100%;
+        vertical-align: center;
+}
+
+.carousel-item {
+        height: 300px;
+}
+
+.megaTitle {
+        color: rgb(10, 48, 93) ;
+}
+
+.sb {
+        color: rgb(37, 173, 37);
+}
+
+.nrna {
+        background-color: red;
+        color: white;
+}
+
+p {
+        font-size: large;
+}
+
+div .corpo {
+        border-radius: 20px;
+}
+.carta {
+        color: rgb(185, 21, 21);
+}
+
+.incrivel{
+        color: rgb(185, 141, 29);
+}
+
+.mx {
+        color: red;
+}
+
+.footer {
+        padding: 5%;
+        border-radius: 10px;
+        color: white;
+}
+
+.freq {
+        color: rgb(46, 62, 105);
+}
+
+div.row .card-title:first-child {
+        color: rgb(8, 105, 29);
+}
+
